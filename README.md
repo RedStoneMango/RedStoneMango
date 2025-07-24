@@ -1,15 +1,15 @@
-# 👋 Hi, I'm RedStoneMango
+# 🥭 Hi, I'm RedStoneMango
 
-🧪 Java Developer | 💻 Desktop Apps & CLI Tools | 🧰 Maven & Gradle | 🧠 Fedora Linux User
+I'm a passionate **Java** and **Bash** developer, Linux enthusiast, and occasional over-engineer of tiny tools.
 
 ---
 
 ## 🛠️ Tech & Tools
 
-- 👨‍💻 Languages: Java
-- 📦 Build Tools: Maven, sometimes Gradle
-- 🖥️ IDEs: IntelliJ IDEA, VS Code
-- 🐧 OS: Fedora Linux
+- 💻 **Languages**: Java, Bash  
+- ⚙️ **Build Tools**: Maven (sometimes Gradle)  
+- 🧠 **IDEs**: IntelliJ IDEA, occasionally VS Code  
+- 🐧 **OS**: Fedora Linux  
 
 ---
 
@@ -17,14 +17,15 @@
 
 I mostly work on:
 
-- 🖥️ Desktop applications
-- 📜 Small command-line tools
+- 🖥️ Desktop applications  
+- 📜 Small command-line tools  
+
+_If I remember to update this page, you'll find my current long-term projects here:_
+
+`<Nothing yet>` – stay tuned!
 
 ---
 
 ## 💬 Motto
 
-> _"Coding is like eating a mango: Sweet and satisfying – until you hit that one bug at the core."_  
-> – RedStoneMango
-
----
+> "Coding is like eating a mango: sweet and satisfying – until you hit that one bug at the core."
