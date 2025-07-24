@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm RedStoneMango
 
-<!--
-**RedStoneMango/RedStoneMango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Java Developer | 💻 Desktop Apps & CLI Tools | 🧰 Maven & Gradle | 🧠 Fedora Linux User
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+
+- 👨‍💻 Languages: Java
+- 📦 Build Tools: Maven, sometimes Gradle
+- 🖥️ IDEs: IntelliJ IDEA, VS Code
+- 🐧 OS: Fedora Linux
+
+---
+
+## 🧩 Projects
+
+I mostly work on:
+
+- 🖥️ Desktop applications
+- 📜 Small command-line tools
+
+---
+
+## 💬 Motto
+
+> _"Coding is like eating a mango: Sweet and satisfying – until you hit that one bug at the core."_  
+> – RedStoneMango
+
+---
