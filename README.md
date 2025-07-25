@@ -20,9 +20,11 @@ I mostly work on:
 - 🖥️ Desktop applications  
 - 📜 Small command-line tools  
 
-_If I remember to update this page, you'll find my current long-term projects here:_
+### If I remember to update this page, you'll find my current long-term projects here:
 
-`<Nothing yet>` – stay tuned!
+| Project | Info | Repository |
+| ------- | ---- | ---------- |
+| Git README Updater | Bash scripts for CLI README management | _private (yet)_
 
 ---
 
