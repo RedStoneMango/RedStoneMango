@@ -24,7 +24,7 @@ I mostly work on:
 
 | Project | Info | Repository |
 | ------- | ---- | ---------- |
-| Git README Updater | Bash scripts for CLI README management | [GitHub link](https://github.com/RedStoneMango/git-readme-updater)
+| Git README Updater | Bash scripts for remote updating modular parts of your READMEs | [git-readme-updater](https://github.com/RedStoneMango/git-readme-updater)
 
 ---
 
