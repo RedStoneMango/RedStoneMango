@@ -24,7 +24,7 @@ I mostly work on:
 
 | Project | Info | Repository |
 | ------- | ---- | ---------- |
-| Git README Updater | Bash scripts for CLI README management | _private (yet)_
+| Git README Updater | Bash scripts for CLI README management | [GitHub link](https://github.com/RedStoneMango/git-readme-updater)
 
 ---
 
