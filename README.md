@@ -25,6 +25,7 @@ I mostly work on:
 | Project | Info | Repository |
 | ------- | ---- | ---------- |
 | Git README Updater | Bash scripts for remote updating modular parts of your READMEs | [git-readme-updater](https://github.com/RedStoneMango/git-readme-updater)
+| Mangrypt | Encryption application to protect sensitive user data | Not public _(yet)_
 
 ---
 
