@@ -25,7 +25,7 @@ I mostly work on:
 | Project | Info | Repository |
 | ------- | ---- | ---------- |
 | Mango-Utils | Free, open-source collection of lightweight Java utility classes | [Mango-Utils](https://github.com/RedStoneMango/Mango-Utils)
-| Mangrypt | Encryption application to protect sensitive user data | Not public _(yet)_
+| Mangrypt | Encryption application to protect sensitive user data | [Mangrypt](https://github.com/RedStoneMango/Mangrypt)
 
 ---
 
