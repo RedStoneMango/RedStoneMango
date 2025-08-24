@@ -6,7 +6,7 @@ I am a German **Java** and **Bash** developer, **Linux** enthusiast, and occasio
 
 ## 🧰 About Me
 
-For more detailed information, check out <a href="https://redstonemango.github.io" target="_blank" rel="noopener noreferrer">my website</a>.
+For more detailed information, check out [my website](https://redstonemango.github.io).
 
 ---
 
