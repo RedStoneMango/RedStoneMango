@@ -10,10 +10,8 @@ For more detailed information, check out [my website](https://redstonemango.gith
 
 ---
 
-## 💬 Motto
+## 💬 Mottos
 
 > **"Coding is like eating a mango: sweet and satisfying – until you hit that one bug at the core."**
 
 > **“He who thinks he is something has ceased to become anything.”** _(Socrates)_
-
-> **"Talk is cheap. Show me the code."** _(Linus Torvalds)_
